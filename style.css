@@ -35,6 +35,13 @@ body {
 input,
 select {
     all: unset;
+
+    font-size: 1.6rem;
+    line-height: 140%;
+}
+
+option {
+    background-color: #27262a;
 }
 
 input,
@@ -43,6 +50,8 @@ button {
     width: 100%;
     letter-spacing: -0.02em;
     line-height: 120%;
+
+    cursor: pointer;
 }
 
 .fields {
@@ -76,8 +85,6 @@ button {
     font-size: 1.6rem;
 
     color: #132f00;
-
-    cursor: pointer;
 }
 
 .card-bg {
@@ -136,6 +143,11 @@ section .card-bg > div {
     display: flex;
     align-items: center;
     gap: 1.2rem;
+}
+
+span {
+    font-size: 1.6rem;
+    line-height: 140%;
 }
 
 time {
