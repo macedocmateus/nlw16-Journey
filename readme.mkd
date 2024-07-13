@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A NLW 16 Journey é um sistema para registrar as atividades em uma lugar no mundo. Clique <a href="https://nlw16-journey-o5kdr1eku-mateus-projects-e6e374db.vercel.app/">aqui</a> para testar a página.
+A NLW 16 Journey é um sistema para registrar as atividades em uma lugar no mundo. Clique <a href="https://nlw16-journey.vercel.app/">aqui</a> para testar a página.
 
 ## 🎨 Layout
 
