@@ -145,6 +145,12 @@ section .card-bg > div {
     gap: 1.2rem;
 }
 
+section p {
+    color: #71717a;
+    font-size: 1.4rem;
+    line-height: 140%;
+}
+
 span {
     font-size: 1.6rem;
     line-height: 140%;

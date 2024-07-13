@@ -1,22 +1,20 @@
 const activity = {
-    name: 'Almoço',
-    date: new Date('2024-07-08 10:00'),
-    isFinished: true,
+    // name: 'Almoço',
+    // date: new Date('2024-07-08 10:00'),
+    // isFinished: true,
 };
 
 let activities = [
-    activity,
-    {
-        name: 'Academia em grupo',
-        date: new Date('2024-07-09 12:00'),
-        isFinished: false,
-    },
-
-    {
-        name: 'Gaming session',
-        date: new Date('2024-07-09 16:00'),
-        isFinished: false,
-    },
+    // {
+    //     name: 'Academia em grupo',
+    //     date: new Date('2024-07-09 12:00'),
+    //     isFinished: false,
+    // },
+    // {
+    //     name: 'Gaming session',
+    //     date: new Date('2024-07-09 16:00'),
+    //     isFinished: false,
+    // },
 ];
 
 const formatter = (date) => {

@@ -1,0 +1,42 @@
+<h1 align="center"> 🗺 NLW 16 - Journey 🗺</h1>
+
+<p align="center">
+Projeto realizado durante o evento NLW edição 16 da Rocketseat.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Interface de um sistema de registro de atividades" src="./capa-readme.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-   HTML e CSS
+-   Javascript
+-   Git e Github
+-   Figma
+
+## 💻 Projeto
+
+A NLW 16 Journey é um sistema para registrar as atividades em uma lugar no mundo. Clique <a href="https://nlw16-journey-o5kdr1eku-mateus-projects-e6e374db.vercel.app/">aqui</a> para testar a página.
+
+## 🎨 Layout
+
+Clique <a href="https://www.figma.com/design/l9ZipjWYMEMX26YjIzzO0O/NLW-Journey-%E2%80%A2-Roteiro-de-Viagem-(Community)?node-id=7101-1080&m=dev" target="_blank" rel="noopener noreferrer">aqui</a> para conhecer a prototipagem do projeto.
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+Desenvolvido com ♥ by Mateus de Castro Macedo 👨‍💻
+</p>
